@@ -1,6 +1,6 @@
-# Create security observability using Generative AI with security lake and Amazon Q for QuickSight
+# Create Security Observability using Generative AI with Amazon Security Lake and Amazon Q for QuickSight
 
-This repository serves as a source for creating views needed to visualize Amazon Security Lake data in Q for Quicksight. Refer to the following blog for more information on how you can implement this in your environment. 
+This repository serves as a source for creating views needed to visualize Amazon Security Lake data in Q for Quicksight. Refer to the following [workshop](https://catalog.us-east-1.prod.workshops.aws/workshops/ed21dc45-17c6-4157-880c-6704397f242b) for more information on how you can implement this in your environment. 
 
 [Security Hub View](security_hub_view.md)
 
